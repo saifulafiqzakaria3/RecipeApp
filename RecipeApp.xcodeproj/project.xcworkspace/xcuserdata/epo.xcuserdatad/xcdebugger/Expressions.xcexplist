@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RecipeTypesListController.tableView(_:heightForRowAt:):RecipeTypesListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.unwindFromRecipeDetailsController(_:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "RecipeListController.availableRecipes">
+            </PersistentString>
+            <PersistentString
+               value = "recipeDetailsController.recipe!.recipeType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.viewDidLoad():RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.safeAreaLayoutGuide.layoutFrame.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.bounds.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeTypesListController.pickerView(_:didSelectRow:inComponent:):RecipeTypesListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chosenRecipeTypeName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeTypesListController.parser(_:foundCharacters:):RecipeTypesListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.elementName">
+            </PersistentString>
+            <PersistentString
+               value = "recipeTypes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.updateRecipeInfoByRecipeType(availableRecipeList:recipeTypeToFilter:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipeListByRecipeType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeDetailsController.updateRecipeButtonTapped(_:):RecipeDetailsController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "RecipeListController.availableRecipes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeTypesListController.tableView(_:cellForRowAt:):RecipeTypesListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeTypesListController.pickerView(_:numberOfRowsInComponent:):RecipeTypesListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipeTypes?.count">
+            </PersistentString>
+            <PersistentString
+               value = "recipeListByRecipeType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.pickerView(_:didSelectRow:inComponent:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipeListByRecipeType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.tableView(_:didSelectRowAt:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "availableRecipes[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "recipeListByRecipeType[chosenRecipeTypeName!]">
+            </PersistentString>
+            <PersistentString
+               value = "datePickerIsActive">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+            <PersistentString
+               value = "recipeListByRecipeType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SingleRecipeCell.bindData(recipeInfo:):SingleRecipeCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipeInfo.imageUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.tableView(_:heightForRowAt:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.filterRecipeType(recipe:typeToFilter:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipe.recipeType">
+            </PersistentString>
+            <PersistentString
+               value = "recipeListByRecipeType[typeToFilter.lowercased()]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.tableView(_:cellForRowAt:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recipeListByRecipeType[chosenRecipeTypeName!]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecipeListController.tableView(_:numberOfRowsInSection:):RecipeListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePickerIsActive">
+            </PersistentString>
+            <PersistentString
+               value = "chosenRecipeTypeName">
+            </PersistentString>
+            <PersistentString
+               value = "recipeListByRecipeType[chosenRecipeTypeName!]?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
