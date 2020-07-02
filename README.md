@@ -1,2 +1,2 @@
 # RecipeApp
-Simple Recipe App for Interview
+Simple Recipe App that list recipes based on the recipe type
