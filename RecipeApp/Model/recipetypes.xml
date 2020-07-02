@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipetypes>
+    <recipetype id="1">
+        <name>Soup</name>
+    </recipetype>
+    <recipetype id="2">
+        <name>Salads</name>
+    </recipetype>
+    <recipetype id="3">
+        <name>Dessert</name>
+    </recipetype>
+    <recipetype id="4">
+        <name>Drink</name>
+    </recipetype>
+    <recipetype id="5">
+        <name>Main Dish</name>
+    </recipetype>
+</recipetypes>
